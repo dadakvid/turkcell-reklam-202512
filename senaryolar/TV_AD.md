@@ -5,7 +5,7 @@
 *   **ERDEM:** (20'li yaşlarda) Gerçekçi, sabırsız, iğneleyici, Turkcell kullanıcısı.  
 *   **SAYGUN:** (20'li yaşlarda) Safsatalarla kendini savunan, teknolojik yetersizliğini felsefeyle örten, rakip operatör kullanıcısı.
 
-**Mekan:** Öğrenci evi salonu veya bir kafe masası. Sade, minimalist bir arka plan.
+**Mekan:** Öğrenci evi salonu.
 
 ---
 
