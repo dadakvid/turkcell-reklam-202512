@@ -1,7 +1,6 @@
 # TV Reklam Senaryosu: Schrödinger'in İnterneti
 
-**Süre:** 30-40 Saniye  
-**Karakterler:**  
+ **Karakterler:**  
 *   **ERDEM:** (20'li yaşlarda) Gerçekçi, sabırsız, iğneleyici, Turkcell kullanıcısı.  
 *   **SAYGUN:** (20'li yaşlarda) Safsatalarla kendini savunan, teknolojik yetersizliğini felsefeyle örten, rakip operatör kullanıcısı.
 
