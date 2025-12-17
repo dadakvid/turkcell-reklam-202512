@@ -1,6 +1,5 @@
 # Reels 1 Senaryosu: Yavaşlığın Asaleti
 
-**Süre:** 15-20 Saniye (Dikey Format 9:16)  
 **Karakterler:** ERDEM ve SAYGUN.
 
 ---

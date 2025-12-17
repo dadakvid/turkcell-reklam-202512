@@ -1,6 +1,5 @@
 # Reels 2 Senaryosu: John Cage ve Sezen Aksu
 
-**Süre:** 15-20 Saniye (Dikey Format 9:16)  
 **Karakterler:** ERDEM ve SAYGUN.
 
 **Mekan:** Araba içi veya yan yana oturma düzeni.
