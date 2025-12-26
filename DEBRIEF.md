@@ -1,4 +1,4 @@
-# STRATEJİK DEBRİF VE YARATICI ÇÖZÜM ÖNERİSİ
+# DEBRIEF
 
 **Gönderen:** Ajans  
 **Alıcı:** Turkcell Pazarlama Ekibi  
@@ -16,9 +16,9 @@ Rakiplerin "paket içeriği" (nicelik) üzerine kurduğu iletişime karşılık,
 **Temel Strateji:** Gençlerin internet çekmediğinde yaşadığı o "boşluğa düşme" ve "saçmalama" anlarını sahiplenmek. Bağlantı sorununu sadece teknik bir hata olarak değil, sosyal hayatı sekteye uğratan komik bir durum olarak konumlandıracağız.
 
 ## 3. YARATICI KONSEPT ÖNERİSİ: "ENTELEKTÜEL MAZERETLER"
-Hedef kitlemiz (Digital Natives), klasik reklam vaatlerine mesafeli durmaktadır. Bu nedenle, onlara kendi sevdikleri mizah diliyle yaklaşmayı öneriyoruz: **Deadpan (Donuk) Mizah.**
+Hedef kitlemiz (digital natives), klasik reklam vaatlerine mesafeli durmaktadır. Bu nedenle, onlara kendi sevdikleri mizah diliyle yaklaşmayı öneriyoruz: **Deadpan (Donuk) Mizah.**
 
-**Fikir:** İnterneti çekmeyen karakterimiz (Saygun), bu yetersizliği kabul etmek yerine, durumu aşırı entelektüel, felsefi ve absürt kavramlarla açıklamaya çalışır ("Schrödinger'in kedisi", "Yavaşlığın asaleti" vb.). Turkcell kullanan karakterimiz (Erdem) ise bu mazeretleri çürüten, net ve gerçekçi taraftır.
+**Fikir:** İnterneti çekmeyen karakterimiz (Saygun), bu yetersizliği kabul etmek yerine, durumu aşırı entelektüel, felsefi ve absürt kavramlarla açıklamaya çalışır ("Schrödinger'in kedisi" vb.). Turkcell kullanan karakterimiz (Erdem) ise bu mazeretleri çürüten, net ve gerçekçi taraftır.
 
 **Slogan Önerisi:** Mazeret Yok, Turkcell Var.
 
@@ -30,6 +30,8 @@ Hedef kitlemiz (Digital Natives), klasik reklam vaatlerine mesafeli durmaktadır
 ## 5. UYGULAMA PLANI
 Bu strateji doğrultusunda;
 *   **1x TV Filmi:** Ana marka vaadini ve karakter dünyasını tanıtan lansman filmi.
-*   **2x Reels/Shorts:** Ana filmdeki karakterlerin gündelik hayattaki diğer "mazeret anlarını" gösteren, hızlı tüketime uygun içerikler.
+*   **2x Reels/Shorts:** Dijital mecraya özel, daha kısa ve anlık tüketilen içerikler:
+    *   **Kafe Kapanışı:** İnternet çekmediği için kafeden ayrılamayan ve çalışana "5 dakika daha" diye yalvaran Saygun'un acınası hali.
+    *   **Setup/Mood Video:** Çay, SIM kart ve kedi gibi öğelerle Turkcell'e geçişin huzurunu anlatan sessiz ama etkili bir görsel kompozisyon.
 
 Onayınıza sunarız.

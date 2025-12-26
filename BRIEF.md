@@ -1,7 +1,7 @@
-# İLETİŞİM BRİFİ
+# BRIEF
 
 **Müşteri:** Turkcell  
-**Marka:** Turkcell GSM / GNÇ  
+**Marka:** Turkcell GSM 
 **Tarih:** 10 Aralık 2025  
 **Konu:** Genç Segment İletişim Kampanyası  
 
@@ -28,10 +28,10 @@ Sınırsız bir pakete sahip olmak, eğer bağlantı kalitesi yoksa anlamsızdı
 
 ## 6. BEKLENEN ÇALIŞMALAR
 Kampanya kapsamında aşağıdaki formatlarda yaratıcı çalışmalar talep edilmektedir:
-1.  **TV Reklam Filmi:** 40+ saniye. (Marka mesajını ve ana vaadi net bir şekilde ileten ana film).
+1.  **TV Reklam Filmi:** 40-60 saniye. (Marka mesajını ve ana vaadi net bir şekilde ileten ana film).
 2.  **Dijital İçerik (Reels/Shorts):** 2 adet, 15-20 saniye. (Sosyal medyada tüketime uygun, dikey formatlı, etkileşim odaklı kısa videolar).
 
 ## 7. ZORUNLULUKLAR
-*   Turkcell / GNÇ logosunun kullanımı.
+*   Turkcell logosunun kullanımı.
 *   Hız ve kapsama üstünlüğüne vurgu.
 *   Rakip markaların isimlerinin veya logolarının doğrudan kullanılmaması (rekabet hukuku gereği).

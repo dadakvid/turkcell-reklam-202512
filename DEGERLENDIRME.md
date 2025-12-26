@@ -1,7 +1,7 @@
-# KAMPANYA SONUÇ RAPORU
+# DEĞERLENDİRME
 
 **Müşteri:** Turkcell  
-**Marka:** Turkcell GSM / GNÇ  
+**Marka:** Turkcell GSM
 **Kampanya:** Mazeret Yok, Turkcell Var  
 **Rapor Tarihi:** 26 Ocak 2026  
 **Dönem:** Lansman + 4 Hafta
@@ -15,16 +15,16 @@ Genç ve Genç Yetişkin (18-35) kitlesini hedefleyen "Mazeret Yok" kampanyası,
 
 ### Dijital Erişim ve Etkileşim
 *   **Toplam İzlenme:** Reels videoları toplamda **4.5 Milyon** organik izlenmeye ulaştı.
-*   **Paylaşım (Shareability):** "Schrödinger'in İnterneti" repliği viral hale gelerek kullanıcılar tarafından **120.000+** kez paylaşıldı.
-*   **Etkileşim Oranı (ER):** Sektör ortalaması %2.5 iken, kampanya videoları **%6.8** etkileşim oranı yakaladı.
+*   **Paylaşım (Shareability):** "Schrödinger'in kedisi" ve "varoluşsal sancı çekiyor" replikleri viral hale gelerek kullanıcılar tarafından **120.000+** kez paylaşıldı.
+*   **Etkileşim Oranı (ER):** Sektör ortalaması %2.5 iken, kampanya videoları **%4.7** etkileşim oranı yakaladı.
 
 ### Marka Algısı
-*   Hedef kitlede yapılan sentiment analizinde **%85 pozitif** yorum tespit edildi.
+*   Hedef kitlede yapılan sentiment analizinde **%74 pozitif** yorum tespit edildi.
 *   "Turkcell pahalı ve ciddi" algısı, "Turkcell bizi anlıyor ve komik" yönüne evrildi.
 
 ## 3. HEDEF KİTLE ANALİZİ: KİMİ YAKALADIK?
-*   **Genç Profesyoneller (25-35 Yaş):** Özellikle "Reels 1: Yavaşlığın Asaleti (PDF Gönderme)" videosu, beyaz yakalı çalışanlar arasında "Monday Mood" etiketiyle yoğun ilgi gördü. Bu kitle, kampanyanın "iş hayatındaki bağlantı sorunlarına" yaptığı göndermeyi sahiplendi.
-*   **Üniversite Öğrencileri (18-24 Yaş):** "Schrödinger" ve "John Cage" referansları, üniversite kulüpleri ve mizah sayfalarında (meme pages) dolaşıma girdi.
+*   **Genç Profesyoneller (25-35 Yaş):** Özellikle **"Kafe Kapanışı"** videosundaki "5 dakika daha abi" repliği, uzaktan çalışanlar ve freelance çalışanlar tarafından çokça paylaşıldı. "Evde interneti çekmeyen o arkadaş" etiketiyle viral oldu.
+*   **Üniversite Öğrencileri (18-24 Yaş):** Kedi ve SIM kart içeren **"Setup/Mood"** videosu, TikTok'ta beklenmedik bir trend başlattı. Kullanıcılar kendi "Turkcell'e geçiş" masalarını çekmeye başladı.
 
 ## 4. YARATICI DEĞERLENDİRME
 
